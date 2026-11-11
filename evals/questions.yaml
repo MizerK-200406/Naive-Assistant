@@ -1,0 +1,256 @@
+# Nhóm A: Tra cứu đơn giản
+- id: A01
+  nhom: A
+  cau_hoi: "Học chế tín chỉ cho đăng ký học vượt với học lại, vậy 1 tín chỉ lý thuyết ở PTIT được quy định bằng bao nhiêu tiết trên lớp và bao nhiêu giờ tự học?"
+  dap_an_chuan: "1 tín chỉ quy định bằng 15 tiết (giờ tín chỉ) lý thuyết và 30 giờ tự học, chuẩn bị cá nhân có hướng dẫn."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 4 khoản 6"
+  trang: "62"
+  tu_khoa_bat_buoc: ["15 tiết", "30 giờ tự học"]
+
+- id: A02
+  nhom: A
+  cau_hoi: "Nếu mình bị điểm F một môn bắt buộc thì có bắt buộc phải học lại đúng môn đó không hay được đổi môn khác?"
+  dap_an_chuan: "Đối với học phần bắt buộc bị điểm F, sinh viên phải đăng ký học lại chính học phần đó (hoặc học phần thay thế nếu chương trình đào tạo bị thay đổi)."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 14 khoản 1.1 (phần a khoản 1)"
+  trang: "70"
+  tu_khoa_bat_buoc: ["bắt buộc", "học lại"]
+
+- id: A03
+  nhom: A
+  cau_hoi: "Điều kiện để sinh viên được dự thi kết thúc học phần môn lý thuyết là gì?"
+  dap_an_chuan: "Tham gia học tối thiểu 80% số giờ lên lớp; đáp ứng điều kiện trong đề cương; đã hoàn thành nghĩa vụ học phí; không vi phạm kỷ luật."
+  nguon: "Điều 29 khoản 1 (cũng nêu tại QĐ 1037/QĐ-HV, Điều 7)"
+  trang: "82, 91"
+  tu_khoa_bat_buoc: ["80%", "học phí"]
+
+- id: A04
+  nhom: A
+  cau_hoi: "Lớp trưởng thông báo điểm thi bị sai thì sinh viên có mấy ngày để nộp đơn xin phúc khảo bài thi tự luận?"
+  dap_an_chuan: "Chậm nhất 07 ngày làm việc kể từ ngày công bố điểm thi."
+  nguon: "Quy định tổ chức thi kết thúc học phần (QĐ 1037/QĐ-HV), Điều 10 khoản 2.2 (gạch đầu dòng thứ 2 trong khoản 2)"
+  trang: "93"
+  tu_khoa_bat_buoc: ["07 ngày làm việc", "công bố điểm"]
+
+- id: A05
+  nhom: A
+  cau_hoi: "Khung điểm đánh giá kết quả rèn luyện sinh viên PTIT tối đa là bao nhiêu và chia thành mấy loại?"
+  dap_an_chuan: "Thang điểm rèn luyện tối đa là 100 điểm, chia thành 6 loại: Xuất sắc (90-100), Tốt (80-89), Khá (65-79), Trung bình (50-64), Yếu (35-49), Kém (dưới 35)."
+  nguon: "Quy định công tác sinh viên (QĐ 589/QĐ-HV), Điều 12 khoản 1"
+  trang: "126"
+  tu_khoa_bat_buoc: ["100", "6 loại"]
+
+- id: A06
+  nhom: A
+  cau_hoi: "Sinh viên bị kỷ luật mức Cảnh cáo ở cấp Học viện thì điểm rèn luyện trong kỳ đó bị khống chế tối đa là loại gì?"
+  dap_an_chuan: "Trong thời gian bị kỷ luật mức Cảnh cáo, khi đánh giá kết quả rèn luyện không được vượt quá loại Trung bình."
+  nguon: "Quy định công tác sinh viên (QĐ 589/QĐ-HV), Điều 12 khoản 2b"
+  trang: "126"
+  tu_khoa_bat_buoc: ["Trung bình", "không được vượt quá"]
+
+- id: A07
+  nhom: A
+  cau_hoi: "Muốn xin giấy xác nhận sinh viên để làm thủ tục vay vốn Ngân hàng chính sách xã hội thì mình đến phòng nào?"
+  dap_an_chuan: "Sinh viên liên hệ Phòng Công tác Sinh viên (Phòng 2B06 cơ sở Man Thiện / 11 Nguyễn Đình Chiểu)."
+  nguon: "HƯỚNG DẪN THỦ TỤC HÀNH CHÍNH CỦA PHÒNG CÔNG TÁC SINH VIÊN"
+  trang: "196"
+  tu_khoa_bat_buoc: ["Phòng Công tác Sinh viên", "2B06"]
+
+- id: A08
+  nhom: A
+  cau_hoi: "Để được xét học bổng Khuyến khích học tập loại Khá, sinh viên khối kỹ thuật cần đăng ký tối thiểu bao nhiêu tín chỉ trong học kỳ đó?"
+  dap_an_chuan: "Sinh viên phải đảm bảo hoàn thành ít nhất 16 tín chỉ trong học kỳ xét học bổng đối với các ngành thuộc khối kỹ thuật (khối kinh tế là 15 tín chỉ)."
+  nguon: "Quy định tạo lập, quản lý và sử dụng Quỹ học bổng (QĐ 542/QĐ-HV), Điều 5 khoản 4c"
+  trang: "147"
+  tu_khoa_bat_buoc: ["16 tín chỉ", "khối kỹ thuật"]
+
+- id: A09
+  nhom: A
+  cau_hoi: "Chuẩn đầu ra tiếng Anh đối với sinh viên đại học chính quy hệ đại trà là bao nhiêu điểm TOEIC?"
+  dap_an_chuan: "Đạt trình độ tiếng Anh 450 điểm TOEIC quốc tế (2 kỹ năng/4 kỹ năng theo khung yêu cầu)."
+  nguon: "Khung chương trình đào tạo đại học, phần e; Quy định đào tạo tiếng Anh (QĐ 734/QĐ-HV), Điều 9 khoản 2"
+  trang: "18, 100"
+  tu_khoa_bat_buoc: ["450", "TOEIC"]
+
+
+# Nhóm B: Nhiều bước/Ghép nhiều 
+
+- id: B01
+  nhom: B
+  cau_hoi: "Một sinh viên K2026 ngành CNTT hệ đại trà tích lũy được 42 tín chỉ sau năm nhất, trong đó có 3 tín chỉ điểm F môn Kiến trúc máy tính. Sinh viên này xếp trình độ năm mấy và xử lý môn F ra sao?"
+  dap_an_chuan: "Tích lũy thực tế N = 39 TC (42-3). Tiến trình chuẩn năm nhất ngành CNTT M = 33 TC. Vì M (33) <= N (39) < 2M (66), sinh viên xếp trình độ năm thứ hai. Môn F là môn bắt buộc nên phải đăng ký học lại chính môn đó ở các kỳ tiếp theo đến khi đạt điểm D trở lên."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 8 khoản 3, Điều 14 khoản 1.1; Khung tiến trình ngành CNTT K2026"
+  trang: "22, 66, 76"
+  tu_khoa_bat_buoc: ["năm thứ hai", "học lại"]
+
+- id: B02
+  nhom: B
+  cau_hoi: "Sinh viên hệ kỹ sư (4.5 năm) xin nghỉ học tạm thời 2 học kỳ vì lý do cá nhân. Cho biết điều kiện để nghỉ và tổng thời gian tối đa còn lại để hoàn thành khóa học?"
+  dap_an_chuan: "Điều kiện nghỉ cá nhân: Đã học ít nhất 1 học kỳ và ĐTBCTL >= 2.0. Thời gian nghỉ cá nhân tính vào thời gian học tối đa. Tổng thời gian đào tạo tối đa của hệ 4.5 năm là 9 năm (18 học kỳ chính), trừ 2 học kỳ đã nghỉ còn tối đa 16 học kỳ để hoàn thành."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 8 khoản 1a, Điều 15 khoản 2c"
+  trang: "65, 71"
+  tu_khoa_bat_buoc: ["ĐTBCTL >= 2.0", "9 năm"]
+
+- id: B03
+  nhom: B
+  cau_hoi: "Nếu bị bệnh đột xuất phải nhập viện đúng ngày thi kết thúc học phần, sinh viên cần làm thủ tục gì để không bị điểm 0 và thời hạn đăng ký thi bù là bao lâu?"
+  dap_an_chuan: "Sinh viên phải nộp đơn xin vắng thi kèm xác nhận bệnh viện cấp huyện trở lên cho Trung tâm KT&ĐBCLGD trong vòng 05 ngày kể từ ngày thi để nhận điểm I. Trong vòng 2 học kỳ tiếp theo, sinh viên phải đăng ký thi lại; quá hạn điểm I sẽ bị đổi thành điểm 0."
+  nguon: "Quy định tổ chức thi kết thúc học phần (QĐ 1037/QĐ-HV), Điều 9 khoản b, c"
+  trang: "93"
+  tu_khoa_bat_buoc: ["điểm I", "2 học kỳ"]
+
+- id: B04
+  nhom: B
+  cau_hoi: "Sinh viên bị cảnh cáo học tập Mức 1 ở HK1 và bị kỷ luật Khiển trách ở HK2. Cho biết giới hạn điểm rèn luyện HK2 và các trường hợp có thể bị buộc thôi học sau đó?"
+  dap_an_chuan: "Điểm rèn luyện HK2 bị khống chế tối đa loại Khá do bị kỷ luật Khiển trách. Sinh viên bị buộc thôi học nếu: nhận cảnh báo Mức 3 ở kỳ xử lý tiếp theo; ĐTBCHK = 0.0; tự ý bỏ học; nợ học phí hoặc hết thời gian đào tạo tối đa."
+  nguon: "Quy định công tác sinh viên, Điều 12 khoản 2a; Quy định đào tạo, Điều 32 khoản 2, Điều 33 khoản 5"
+  trang: "83, 84, 126"
+  tu_khoa_bat_buoc: ["loại Khá", "buộc thôi học"]
+
+- id: B05
+  nhom: B
+  cau_hoi: "Sinh viên ngành ATTT có ĐTBCHK 3.55 (thang 4), ĐRL 88 (loại Tốt), có 1 môn thi lần 1 bị điểm 3.8 (điểm F). Sinh viên này có được xét học bổng Khuyến khích học tập không? Tại sao?"
+  dap_an_chuan: "Sinh viên KHÔNG được xét học bổng KKHT. Quy định điều kiện bắt buộc là sinh viên không có điểm thi kiểm tra lần thứ nhất nào dưới 4,0 (thang điểm 10)."
+  nguon: "Quy định tạo lập, quản lý và sử dụng Quỹ học bổng (QĐ 542/QĐ-HV), Điều 5 khoản 4a"
+  trang: "147"
+  tu_khoa_bat_buoc: ["Không được xét", "lần thứ nhất"]
+
+- id: B06
+  nhom: B
+  cau_hoi: "Sinh viên đã đóng học phí kỳ 1 nhưng đến tuần thứ 3 phải thôi học vì gia đình gặp thiên tai nghiêm trọng (có xác nhận UBND huyện). Mức học phí hoàn trả được tính thế nào?"
+  dap_an_chuan: "Gia cảnh thiên tai nghiêm trọng thuộc 'Lý do đặc biệt' theo Điều 8 khoản 4a. Sinh viên được hoàn trả 100% học phí kỳ học đã đóng."
+  nguon: "Quy định về thu nộp học phí (QĐ 1989/QĐ-HV), Điều 8 khoản 1b, khoản 4a"
+  trang: "167"
+  tu_khoa_bat_buoc: ["100%", "Lý do đặc biệt"]
+
+- id: B07
+  nhom: B
+  cau_hoi: "So sánh tổng số tín chỉ tích lũy tối thiểu giữa cử nhân Marketing (4 năm) và kỹ sư CNTT (4.5 năm) hệ đại trà?"
+  dap_an_chuan: "Ngành Cử nhân Marketing 4 năm học 132 tín chỉ (tối thiểu quy chế 120 TC). Ngành Kỹ sư CNTT 4.5 năm học 150 tín chỉ (tối thiểu quy chế 150 TC). Chênh lệch toàn khóa là 18 tín chỉ."
+  nguon: "Khung chương trình đào tạo đại học; Kế hoạch học tập chuẩn CNTT và Marketing K2026"
+  trang: "22-23, 45-46"
+  tu_khoa_bat_buoc: ["132", "150"]
+
+- id: B08
+  nhom: B
+  cau_hoi: "Một sinh viên đại trà nộp chứng chỉ IELTS 6.0 trước khi học Course 1. Sinh viên có được miễn học tiếng Anh không, điểm quy đổi các học phần Course 1, 2, 3 ra sao và đã đủ chuẩn tốt nghiệp chưa?"
+  dap_an_chuan: "Sinh viên được miễn học, miễn thi và chuyển điểm 10 cho Course 1, Course 2, Course 3. IELTS 6.0 vượt mốc 450 TOEIC nên đã đạt chuẩn đầu ra tốt nghiệp."
+  nguon: "Quy định đào tạo tiếng Anh hệ đại trà (QĐ 734/QĐ-HV), Điều 6, Điều 9 khoản 2, Phụ lục 2"
+  trang: "99, 100, 104-105"
+  tu_khoa_bat_buoc: ["miễn học", "10", "đạt chuẩn"]
+
+
+
+# NHóm C: Bảng và chương trình đào tạo
+
+- id: C01
+  nhom: C
+  cau_hoi: "Nhìn vào tiến trình học tập chuẩn ngành An toàn thông tin khóa 2026, ở HK3 sinh viên phải học những môn học nào và tổng số tín chỉ của học kỳ này là bao nhiêu?"
+  dap_an_chuan: "Học 6 môn: Tiếng Anh (Course 2) - 4TC, Xác suất thống kê - 3TC, Cấu trúc dữ liệu và giải thuật - 3TC, Cơ sở dữ liệu - 3TC, Hệ điều hành Windows và Linux/Unix - 3TC, Python cho An toàn thông tin - 3TC. Tổng số: 19 tín chỉ."
+  nguon: "Kế hoạch và tiến trình học tập chuẩn ngành An toàn thông tin Khóa 2026"
+  trang: "19"
+  tu_khoa_bat_buoc: ["6 môn", "19"]
+
+- id: C02
+  nhom: C
+  cau_hoi: "Trong học kỳ 1 của khóa 2026, danh mục môn học của ngành Công nghệ thông tin hệ Đại trà khác hệ Chất lượng cao như thế nào về môn tiếng Anh và tổng số tín chỉ?"
+  dap_an_chuan: "HK1 Đại trà học 5 môn (Triết học Mác Lênin, Giải tích 1, Nhập môn tin học & lập trình, Đại số, Nhập môn CN số & AI) = 14 TC (chưa có Tiếng Anh). HK1 CLC học 4 môn (Nhập môn tin học & lập trình, Giải tích 1, Đại số, Tiếng Anh Course 1_CLC - 8TC) = 17 TC."
+  nguon: "Kế hoạch học tập chuẩn ngành CNTT Đại trà và CNTT CLC Khóa 2026"
+  trang: "22, 25"
+  tu_khoa_bat_buoc: ["14 TC", "17 TC", "Course 1_CLC"]
+
+- id: C03
+  nhom: C
+  cau_hoi: "Tra bảng quy đổi điểm học phần, nếu sinh viên đạt 7.5 điểm thành phần môn học thì quy đổi sang điểm chữ, thang điểm 4 và xếp loại học lực tương ứng như thế nào?"
+  dap_an_chuan: "Điểm 7.5 (mốc 7,0 – 7,9) quy đổi sang Điểm chữ: B -> Thang điểm 4: 3,0 -> Xếp loại học lực: Khá."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 25 khoản 1 (Bảng 1)"
+  trang: "79"
+  tu_khoa_bat_buoc: ["B", "3,0", "Khá"]
+
+- id: C04
+  nhom: C
+  cau_hoi: "Tra bảng quy đổi chuyển điểm hệ Chất lượng cao, chứng chỉ IELTS 6.5 được chuyển đổi điểm số cụ thể cho các học phần Course 1_CLC, Course 2_CLC và Course 3_CLC là bao nhiêu?"
+  dap_an_chuan: "IELTS 6.5 thuộc bậc 4C (B2). Điểm quy đổi chuyển điểm: Course 1_CLC = 10, Course 2_CLC = 10, Course 3_CLC = 10."
+  nguon: "Quy định đào tạo tiếng Anh hệ Chất lượng cao (QĐ 980/QĐ-HV), Phụ lục 2"
+  trang: "104"
+  tu_khoa_bat_buoc: ["Course 1_CLC", "10"]
+
+
+
+# Nhóm D: Mâu thuẫn và phụ thuộc điều kiện
+
+- id: D01
+  nhom: D
+  cau_hoi: "Trong Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 32 khoản 2d quy định sinh viên bị buộc thôi học nếu 'Nhận cảnh báo kết quả học tập mức 3 theo quy định tại khoản 3 Điều 34 của Quy chế này'. Hãy chỉ ra điểm mâu thuẫn/sai sót tham chiếu ở đây?"
+  dap_an_chuan: "Lỗi tham chiếu sai số Điều: Văn bản dẫn chiếu đến 'khoản 3 Điều 34', nhưng Điều 34 quy định về 'Thực tập cuối khóa', trong khi quy định về Cảnh báo kết quả học tập thực tế nằm ở Điều 33."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 32 khoản 2d, Điều 33, Điều 34"
+  trang: "83, 84, 85"
+  tu_khoa_bat_buoc: ["Điều 34", "Thực tập cuối khóa", "Điều 33"]
+
+- id: D02
+  nhom: D
+  cau_hoi: "Sinh viên muốn khiếu nại/phúc khảo điểm thi kết thúc học phần tự luận thì thời hạn nộp đơn là 07 ngày hay 10 ngày kể từ ngày công bố điểm? Sổ tay quy định mâu thuẫn ra sao?"
+  dap_an_chuan: "Điều 10 khoản 2.2 Quy định thi (QĐ 1037) quy định chậm nhất 07 ngày làm việc, trong khi Điều 30 khoản 3 Quy định đào tạo (QĐ 838) và Điều 21 khoản 1 Quy định thi lại ghi 10 ngày kể từ ngày công bố điểm."
+  nguon: "QĐ 1037/QĐ-HV Điều 10 khoản 2.2 vs QĐ 838/QĐ-HV Điều 30 khoản 3"
+  trang: "83, 93"
+  tu_khoa_bat_buoc: ["07 ngày làm việc", "10 ngày"]
+
+- id: D03
+  nhom: D
+  cau_hoi: "Nêu sự khác biệt về chuẩn đầu ra tiếng Anh, bài thi xếp lớp đầu vào và tổng số tín chỉ tiếng Anh bắt buộc phải tích lũy giữa hệ Đại trà và hệ Chất lượng cao?"
+  dap_an_chuan: "Hệ Đại trà: CĐR 450 TOEIC, thi xếp lớp TOEIC Placement Test (dưới 225 học Course 0 - 4TC), tích lũy 14 TC chính thức. Hệ CLC: CĐR 70 TOEFL iBT / 5.5 IELTS, thi xếp lớp TOEFL ITP Placement Test (dưới 360 học Course 0_CLC - 6TC), tích lũy 24 TC chính thức."
+  nguon: "Quy định đào tạo tiếng Anh hệ đại trà (QĐ 734) và hệ CLC (QĐ 980)"
+  trang: "97-99, 106-108"
+  tu_khoa_bat_buoc: ["TOEIC", "TOEFL", "14", "24"]
+
+- id: D04
+  nhom: D
+  cau_hoi: "Tại Điều 14 khoản 2.3 (Học cải thiện điểm), Quy chế viết: 'vẫn còn trong thời gian đào tạo tối đa cho phép quy định tại khoản 1 Điều 9 của Quy chế này'. Hãy chỉ ra điểm không chính xác của tham chiếu này?"
+  dap_an_chuan: "Lỗi dẫn chiếu sai Điều: Văn bản dẫn chiếu 'khoản 1 Điều 9' (Điều 9 quy định về Đăng ký nhập học), trong khi quy định về Thời gian đào tạo tối đa nằm ở Điều 8 khoản 1."
+  nguon: "Quy định đào tạo đại học theo tín chỉ (QĐ 838/QĐ-HV), Điều 14 khoản 2.3, Điều 9, Điều 8 khoản 1"
+  trang: "41, 65, 67"
+  tu_khoa_bat_buoc: ["Điều 9", "Điều 8 khoản 1"]
+
+
+
+# Nhóm E: Không có thông tin trong tài liệu
+
+- id: E01
+  nhom: E
+  cau_hoi: "Sổ tay sinh viên PTIT có quy định cụ thể về mức phí gửi xe máy theo tháng tại bãi xe cơ sở Man Thiện là bao nhiêu tiền một tháng không?"
+  dap_an_chuan: "Sổ tay sinh viên không quy định mức phí gửi xe máy theo tháng tại bãi xe. Văn bản chỉ cung cấp thông tin liên hệ các tổ bảo vệ cơ sở và sơ đồ/tuyến di chuyển."
+  nguon: "Sổ tay sinh viên PTIT (Không có thông tin trong tài liệu)"
+  trang: "Không có"
+  tu_khoa_bat_buoc: ["Không quy định", "không có"]
+
+- id: E02
+  nhom: E
+  cau_hoi: "Nếu muốn xin chuyển sang học tại Cơ sở Hà Nội của Học viện (96A Trần Phú, Hà Đông) thì điểm chuẩn trúng tuyển năm 2026 của Cơ sở Hà Nội là bao nhiêu?"
+  dap_an_chuan: "Sổ tay sinh viên dành cho Cơ sở TP.HCM không công bố điểm chuẩn tuyển sinh cụ thể của Cơ sở Hà Nội."
+  nguon: "Sổ tay sinh viên PTIT (Không có thông tin trong tài liệu)"
+  trang: "Không có"
+  tu_khoa_bat_buoc: ["Không công bố", "không chứa thông tin"]
+
+- id: E03
+  nhom: E
+  cau_hoi: "Trong Sổ tay có nêu thực đơn chi tiết và giá tiền từng món ăn hàng ngày tại Nhà ăn/Căn tin sinh viên cơ sở Man Thiện không?"
+  dap_an_chuan: "Sổ tay không in thực đơn hay giá tiền món ăn tại căn tin, chỉ nêu chức năng quản lý dịch vụ căn tin và chính sách hỗ trợ chất lượng bữa ăn."
+  nguon: "Sổ tay sinh viên PTIT (Không có thông tin trong tài liệu)"
+  trang: "Không có"
+  tu_khoa_bat_buoc: ["Không in", "không có"]
+
+- id: E04
+  nhom: E
+  cau_hoi: "Mức học phí chi tiết tính theo tiền VNĐ trên mỗi tín chỉ của từng ngành học năm học 2026-2027 được ghi ở trang nào trong Sổ tay?"
+  dap_an_chuan: "Sổ tay không in bảng đơn giá học phí VNĐ/tín chỉ chi tiết của từng ngành, chỉ quy định nguyên tắc thu học phí theo thông báo công khai đầu năm học/kỳ học."
+  nguon: "Sổ tay sinh viên PTIT (Không có thông tin trong tài liệu)"
+  trang: "Không có"
+  tu_khoa_bat_buoc: ["Không in", "thông báo công khai"]
+
+- id: E05
+  nhom: E
+  cau_hoi: "Sổ tay có quy định danh sách các công ty/doanh nghiệp cụ thể ký kết nhận sinh viên PTIT đến thực tập tốt nghiệp năm 2026 không?"
+  dap_an_chuan: "Sổ tay không liệt kê danh sách tên các công ty/doanh nghiệp cụ thể tiếp nhận thực tập, chỉ quy định thời gian (5-6 tuần) và quy trình tổ chức thực tập cuối khóa."
+  nguon: "Sổ tay sinh viên PTIT (Không có thông tin trong tài liệu)"
+  trang: "Không có"
+  tu_khoa_bat_buoc: ["Không liệt kê", "quy trình"]
+
