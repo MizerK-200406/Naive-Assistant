@@ -6,6 +6,7 @@ import pytest
 
 from naive_assistant.ingest.extract import (
     PageRecord,
+    TEXT_FLAGS,
     extract_pages,
     normalize_text,
     to_printed,
@@ -20,6 +21,11 @@ def test_to_printed():
     assert to_printed(1) is None
     assert to_printed(5) is None
     assert to_printed(8) == 2
+
+
+def test_text_flags():
+    assert TEXT_FLAGS & pymupdf.TEXT_MEDIABOX_CLIP == 0
+    assert TEXT_FLAGS == 131
 
 
 def test_normalize_text():

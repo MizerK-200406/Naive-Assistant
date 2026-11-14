@@ -9,6 +9,7 @@ import pymupdf
 
 PAGE_OFFSET: int = 6
 FIRST_INDEXED_PDF_PAGE: int = 7
+TEXT_FLAGS: int = pymupdf.TEXTFLAGS_TEXT & ~pymupdf.TEXT_MEDIABOX_CLIP
 
 
 def to_printed(pdf_page: int, offset: int = PAGE_OFFSET) -> int | None:
@@ -44,7 +45,7 @@ def extract_pages(pdf_path: Path) -> list[PageRecord]:
             pdf_page = idx + 1
             page = doc[idx]
 
-            raw_text = page.get_text("text")
+            raw_text = page.get_text("text", flags=TEXT_FLAGS)
             text = normalize_text(raw_text)
 
             printed_page = to_printed(pdf_page)
@@ -54,7 +55,7 @@ def extract_pages(pdf_path: Path) -> list[PageRecord]:
             top_limit = page.rect.y0 + 0.08 * h
             bottom_limit = page.rect.y1 - 0.08 * h
 
-            words = page.get_text("words")
+            words = page.get_text("words", flags=TEXT_FLAGS)
             margin_numbers: list[int] = []
             for w in words:
                 word_text = str(w[4]).strip()
