@@ -24,3 +24,10 @@ data/index/*
 *.sqlite
 *.db
 .DS_Store
+
+# Native Assistant local artifacts and private evaluation datasets
+backend/.local/
+backend/eval/datasets/
+.pytest_cache/
+.ruff_cache/
+*.sqlite*

@@ -1,0 +1,31 @@
+[project]
+name = "native-assistant"
+version = "0.1.0"
+description = "Local-first personal assistant"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastembed==0.9.1",
+    "httpx>=0.28,<1",
+    "pydantic>=2,<3",
+    "pypdf>=5,<7",
+    "pyyaml>=6,<7",
+    "qdrant-client>=1.14,<2",
+    "rank-bm25>=0.2,<0.3",
+]
+
+[project.scripts]
+rag = "native_assistant.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
